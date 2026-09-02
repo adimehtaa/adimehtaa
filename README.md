@@ -1,40 +1,170 @@
-<h1 align="center">Hi 👋, I'm Aditya Mehta</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adimehtaa&label=Profile%20views&color=0e75b6&style=flat" alt="adimehtaa" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aditya+Mehta;Backend+Engineer;Java+%26+Spring+Boot+Developer;Building+scalable+backend+systems" alt="Typing SVG" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adimehtaa" alt="adimehtaa" /></a> </p>
+<br>
 
-- 🔭 I’m currently working on [E-commerce](https://github.com/adimehtaa/e-commerce)
+[Portfolio](https://aditya.devyard.cloud/p/)  · 
+[Blog](https://aditya.devyard.cloud/b/)  · 
+[LinkedIn](https://linkedin.com/in/adimehtaa)  · 
+[Twitter](https://twitter.com/adimehtaa)  · 
+[Email](mailto:adityamehta242@gmail.com)
 
-- 🌱 I’m currently improving **my backend skills through real-world project practice.**
+<br>
 
-- 👯 I’m looking to collaborate on **Spring Boot Project**
+![Profile Views](https://komarev.com/ghpvc/?username=adimehtaa\&label=Profile%20Views\&color=2E9EF7\&style=flat-square)
 
-- 🤝 I’m looking for help with [Datatable](https://github.com/adimehtaa/table)
+</div>
 
-- 👨‍💻 All of my projects are available at [https://aditya.devyard.cloud/p/](https://aditya.devyard.cloud/p/)
+---
 
-- 📝 I regularly write articles on [https://aditya.devyard.cloud/b/](https://aditya.devyard.cloud/b/)
+## About Me
 
-- 💬 Ask me about **Java, JavaScript, Jakarta EE, Spring Boot, Vue.js, React.js, MariaDB**
+Backend engineer from India focused on building **reliable, maintainable, and scalable backend systems**.
 
-- 📫 How to reach me **adityamehta242@gmail.com**
+My primary stack is **Java and Spring Boot**, with a strong interest in REST APIs, database design, backend architecture, caching, and system design.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adimehtaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adimehtaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adimehtaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adimehtaa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/28128022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28128022" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adimehtaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adimehtaa" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/adimehtaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="adimehtaa" height="30" width="40" /></a>
-</p>
+I enjoy turning business requirements into clean backend services and continuously improving how systems are designed, built, and deployed.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adimehtaa&show_icons=true&locale=en&layout=compact" alt="adimehtaa" /></p>
+## What I'm Working On
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adimehtaa&show_icons=true&locale=en" alt="adimehtaa" /></p>
+```text
+Building          → E-commerce backend & platform
+Focused on        → Java, Spring Boot, REST APIs
+Learning          → System design & backend architecture
+Exploring         → Distributed systems, caching & scalability
+Collaborating on  → Spring Boot projects
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adimehtaa&" alt="adimehtaa" /></p>
+---
+
+## Backend Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Backend**
+
+Java
+Spring Boot
+Spring MVC
+REST APIs
+Express.js
+
+</td>
+<td valign="top" width="33%">
+
+**Databases**
+
+PostgreSQL
+MySQL
+MariaDB
+MongoDB
+Redis
+
+</td>
+<td valign="top" width="33%">
+
+**Infrastructure**
+
+Docker
+Linux
+Nginx
+Git
+Bash
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering Interests
+
+* Backend architecture
+* RESTful API design
+* Database design & optimization
+* Authentication & authorization
+* Caching with Redis
+* System design
+* Scalable application architecture
+* Clean code & maintainable services
+* Dockerized deployments
+
+---
+
+## Projects
+
+### 🛒 E-commerce Platform
+
+Building an end-to-end e-commerce platform with a strong focus on **backend architecture, APIs, data modeling, and business logic**.
+
+**Stack:** Java · Spring Boot · PostgreSQL · Redis · Docker
+
+[View Repository](https://github.com/adimehtaa/e-commerce)
+
+### 📊 Datatable
+
+A project focused on building reusable data-table functionality and solving common problems around structured data presentation.
+
+[View Repository](https://github.com/adimehtaa/table)
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adimehtaa&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adimehtaa&layout=compact&theme=default&hide_border=true&hide_title=true" width="38%" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adimehtaa&hide_border=true" width="65%" />
+
+<br><br>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=adimehtaa&theme=flat&no-frame=true&row=1&column=6" />
+</a>
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adimehtaa/adimehtaa/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adimehtaa/adimehtaa/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/adimehtaa/adimehtaa/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## Find Me Online
+
+| Platform       | Profile                                               |
+| :------------- | :---------------------------------------------------- |
+| Stack Overflow | [adimehtaa](https://stackoverflow.com/users/28128022) |
+| LeetCode       | [adimehtaa](https://www.leetcode.com/adimehtaa)       |
+| HackerEarth    | [adimehtaa](https://www.hackerearth.com/adimehtaa)    |
+
+---
+
+<div align="center">
+
+**Java • Spring Boot • APIs • Databases • System Design**
+
+<br>
+
+*"Code is like humor. When you have to explain it, it's bad."*
+
+</div>
