@@ -7,8 +7,9 @@
 `Building scalable backend systems, one service at a time.`
 
 <p>
-<a href="https://aditya.devyard.cloud/p/">Portfolio</a> •
-<a href="https://aditya.devyard.cloud/b/">Blog</a> •
+<a href="https://adimehta.com">Portfolio</a> •
+<a href="https://adimehta.com/blogs">Blog</a> •
+<a href="https://adimehta.com/projects">Project</a> •
 <a href="https://linkedin.com/in/adimehtaa">LinkedIn</a> •
 <a href="https://twitter.com/adimehtaa">Twitter</a> •
 <a href="mailto:adityamehta242@gmail.com">Email</a>
@@ -30,11 +31,11 @@ I'm a backend engineer from India who cares about building **reliable, maintaina
 
 | | |
 |---|---|
-| **Building** | E-commerce backend & platform |
+| **Building** | Distributed Notification Engine |
 | **Focused on** | Java, Spring Boot, REST APIs |
 | **Learning** | System design & backend architecture |
 | **Exploring** | Distributed systems, caching, scalability |
-| **Open to** | Collaborating on Spring Boot projects |
+| **Open to** | Backend engineering opportunities & interesting projects |
 
 <br>
 
@@ -72,14 +73,17 @@ I'm a backend engineer from India who cares about building **reliable, maintaina
 
 ## <img src="https://api.iconify.design/lucide/settings.svg?color=%232E9EF7" width="22" height="22" style="vertical-align:middle" /> Engineering Interests
 
-- Backend architecture & system design
-- RESTful API design
-- Database design & optimization
-- Authentication & authorization
-- Caching with Redis
-- Scalable application architecture
-- Clean code & maintainable services
-- Dockerized deployments
+* Backend Engineering & System Design
+* RESTful API Development & Integration
+* Database Design, Query Optimization & Performance Tuning
+* Authentication & Authorization (JWT, RBAC)
+* Redis Caching & Performance Optimization
+* Scalable & Modular Application Architecture
+* Clean Code, SOLID Principles & Maintainable Services
+* Docker & Containerized Deployments
+* API Security, Validation & Error Handling
+* Logging, Monitoring & Debugging
+
 
 <br>
 
@@ -89,20 +93,22 @@ I'm a backend engineer from India who cares about building **reliable, maintaina
 <tr>
 <td width="50%" valign="top">
 
-### E-commerce Platform
+### Distributed Notification Engine
 End-to-end e-commerce platform with a strong focus on backend architecture, APIs, data modeling, and business logic.
 
-**Stack:** Java · Spring Boot · PostgreSQL · Redis · Docker
+**Stack:** Java · Spring Boot · PostgreSQL · Redis 
 
-[→ View Repository](https://github.com/adimehtaa/e-commerce)
+[→ View Repository](https://github.com/adimehtaa/distributed-notification-engine)
 
 </td>
 <td width="50%" valign="top">
 
-### Datatable
-Reusable data-table functionality, solving common problems around structured data presentation.
+### CloudCollab
+A team collaboration platform where teams can chat, manage projects, share files, and work with clients - all in one place.
 
-[→ View Repository](https://github.com/adimehtaa/table)
+**Stack:** Java · Spring Boot · PostgreSQL · Redis · JWT
+
+[→ View Repository](https://github.com/adimehtaa/CloudCollab)
 
 </td>
 </tr>
@@ -130,7 +136,7 @@ Reusable data-table functionality, solving common problems around structured dat
 
 <a href="https://stackoverflow.com/users/28128022"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 <a href="https://www.leetcode.com/adimehtaa"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.hackerearth.com/adimehtaa"><img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>
+<a href="https://www.hackerearth.com/@adimehtaa/"><img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>
 
 </div>
 
