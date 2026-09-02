@@ -20,13 +20,13 @@
 
 <br>
 
-## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/aboutdotme.svg" width="22" height="22" style="vertical-align:middle" /> About
+## <img src="https://api.iconify.design/lucide/user.svg?color=%232E9EF7" width="22" height="22" style="vertical-align:middle" /> About
 
 I'm a backend engineer from India who cares about building **reliable, maintainable, and scalable** systems. My core stack is **Java + Spring Boot**, and I spend most of my time thinking about REST API design, database modeling, caching, and system architecture.
 
 <br>
 
-## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/target.svg" width="22" height="22" style="vertical-align:middle" /> Current Focus
+## <img src="https://api.iconify.design/lucide/target.svg?color=%232E9EF7" width="22" height="22" style="vertical-align:middle" /> Current Focus
 
 | | |
 |---|---|
@@ -38,7 +38,7 @@ I'm a backend engineer from India who cares about building **reliable, maintaina
 
 <br>
 
-## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/toolbox.svg" width="22" height="22" style="vertical-align:middle" /> Tech Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%232E9EF7" width="22" height="22" style="vertical-align:middle" /> Tech Stack
 
 <div align="center">
 
@@ -50,8 +50,6 @@ I'm a backend engineer from India who cares about building **reliable, maintaina
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 
-<br><br>
-
 **Databases**
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -59,8 +57,6 @@ I'm a backend engineer from India who cares about building **reliable, maintaina
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-
-<br><br>
 
 **Infrastructure**
 <br>
@@ -74,7 +70,7 @@ I'm a backend engineer from India who cares about building **reliable, maintaina
 
 <br>
 
-## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gear.svg" width="22" height="22" style="vertical-align:middle" /> Engineering Interests
+## <img src="https://api.iconify.design/lucide/settings.svg?color=%232E9EF7" width="22" height="22" style="vertical-align:middle" /> Engineering Interests
 
 - Backend architecture & system design
 - RESTful API design
@@ -87,7 +83,7 @@ I'm a backend engineer from India who cares about building **reliable, maintaina
 
 <br>
 
-## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/rocket.svg" width="22" height="22" style="vertical-align:middle" /> Projects
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%232E9EF7" width="22" height="22" style="vertical-align:middle" /> Projects
 
 <table>
 <tr>
@@ -114,7 +110,7 @@ Reusable data-table functionality, solving common problems around structured dat
 
 <br>
 
-## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/githubactions.svg" width="22" height="22" style="vertical-align:middle" /> GitHub Stats
+## <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%232E9EF7" width="22" height="22" style="vertical-align:middle" /> GitHub Stats
 
 <div align="center">
 
@@ -133,7 +129,7 @@ Reusable data-table functionality, solving common problems around structured dat
 
 <br>
 
-## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/link.svg" width="22" height="22" style="vertical-align:middle" /> Find Me Online
+## <img src="https://api.iconify.design/lucide/link.svg?color=%232E9EF7" width="22" height="22" style="vertical-align:middle" /> Find Me Online
 
 <div align="center">
 
