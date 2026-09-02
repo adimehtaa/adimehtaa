@@ -114,16 +114,11 @@ Reusable data-table functionality, solving common problems around structured dat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adimehtaa&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adimehtaa&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" width="38%" />
+![Total Contributions](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/adimehtaa/adimehtaa/main/stats.json&label=Total%20Contributions&query=$.total&color=2E9EF7&style=for-the-badge)
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adimehtaa&theme=tokyonight&hide_border=true" width="65%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=adimehtaa&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://img.shields.io/badge/Total_Contributions-792-2E9EF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Current_Streak-1_day-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Longest_Streak-158_days-4ADE80?style=for-the-badge" />
 
 </div>
 
