@@ -1,169 +1,151 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aditya+Mehta;Backend+Engineer;Java+%26+Spring+Boot+Developer;Building+scalable+backend+systems" alt="Typing SVG" />
+# Aditya Mehta
 
-<br>
+### Backend Engineer · Java & Spring Boot
 
-[Portfolio](https://aditya.devyard.cloud/p/)  · 
-[Blog](https://aditya.devyard.cloud/b/)  · 
-[LinkedIn](https://linkedin.com/in/adimehtaa)  · 
-[Twitter](https://twitter.com/adimehtaa)  · 
-[Email](mailto:adityamehta242@gmail.com)
+`Building scalable backend systems, one service at a time.`
 
-<br>
+<p>
+<a href="https://aditya.devyard.cloud/p/">Portfolio</a> •
+<a href="https://aditya.devyard.cloud/b/">Blog</a> •
+<a href="https://linkedin.com/in/adimehtaa">LinkedIn</a> •
+<a href="https://twitter.com/adimehtaa">Twitter</a> •
+<a href="mailto:adityamehta242@gmail.com">Email</a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=adimehtaa\&label=Profile%20Views\&color=2E9EF7\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=adimehtaa&label=Views&color=0A66C2&style=for-the-badge)
 
 </div>
 
----
+<br>
 
-## About Me
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/aboutdotme.svg" width="22" height="22" style="vertical-align:middle" /> About
 
-Backend engineer from India focused on building **reliable, maintainable, and scalable backend systems**.
+I'm a backend engineer from India who cares about building **reliable, maintainable, and scalable** systems. My core stack is **Java + Spring Boot**, and I spend most of my time thinking about REST API design, database modeling, caching, and system architecture.
 
-My primary stack is **Java and Spring Boot**, with a strong interest in REST APIs, database design, backend architecture, caching, and system design.
+<br>
 
-I enjoy turning business requirements into clean backend services and continuously improving how systems are designed, built, and deployed.
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/target.svg" width="22" height="22" style="vertical-align:middle" /> Current Focus
 
----
+| | |
+|---|---|
+| **Building** | E-commerce backend & platform |
+| **Focused on** | Java, Spring Boot, REST APIs |
+| **Learning** | System design & backend architecture |
+| **Exploring** | Distributed systems, caching, scalability |
+| **Open to** | Collaborating on Spring Boot projects |
 
-## What I'm Working On
+<br>
 
-```text
-Building          → E-commerce backend & platform
-Focused on        → Java, Spring Boot, REST APIs
-Learning          → System design & backend architecture
-Exploring         → Distributed systems, caching & scalability
-Collaborating on  → Spring Boot projects
-```
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/toolbox.svg" width="22" height="22" style="vertical-align:middle" /> Tech Stack
 
----
+<div align="center">
 
-## Backend Stack
+**Backend**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+
+<br><br>
+
+**Databases**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+<br><br>
+
+**Infrastructure**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+
+</div>
+
+<br>
+
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gear.svg" width="22" height="22" style="vertical-align:middle" /> Engineering Interests
+
+- Backend architecture & system design
+- RESTful API design
+- Database design & optimization
+- Authentication & authorization
+- Caching with Redis
+- Scalable application architecture
+- Clean code & maintainable services
+- Dockerized deployments
+
+<br>
+
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/rocket.svg" width="22" height="22" style="vertical-align:middle" /> Projects
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-**Backend**
+### E-commerce Platform
+End-to-end e-commerce platform with a strong focus on backend architecture, APIs, data modeling, and business logic.
 
-Java
-Spring Boot
-Spring MVC
-REST APIs
-Express.js
+**Stack:** Java · Spring Boot · PostgreSQL · Redis · Docker
 
-</td>
-<td valign="top" width="33%">
-
-**Databases**
-
-PostgreSQL
-MySQL
-MariaDB
-MongoDB
-Redis
+[→ View Repository](https://github.com/adimehtaa/e-commerce)
 
 </td>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-**Infrastructure**
+### Datatable
+Reusable data-table functionality, solving common problems around structured data presentation.
 
-Docker
-Linux
-Nginx
-Git
-Bash
+[→ View Repository](https://github.com/adimehtaa/table)
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## Engineering Interests
-
-* Backend architecture
-* RESTful API design
-* Database design & optimization
-* Authentication & authorization
-* Caching with Redis
-* System design
-* Scalable application architecture
-* Clean code & maintainable services
-* Dockerized deployments
-
----
-
-## Projects
-
-### 🛒 E-commerce Platform
-
-Building an end-to-end e-commerce platform with a strong focus on **backend architecture, APIs, data modeling, and business logic**.
-
-**Stack:** Java · Spring Boot · PostgreSQL · Redis · Docker
-
-[View Repository](https://github.com/adimehtaa/e-commerce)
-
-### 📊 Datatable
-
-A project focused on building reusable data-table functionality and solving common problems around structured data presentation.
-
-[View Repository](https://github.com/adimehtaa/table)
-
----
-
-## GitHub Activity
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/githubactions.svg" width="22" height="22" style="vertical-align:middle" /> GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adimehtaa&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adimehtaa&layout=compact&theme=default&hide_border=true&hide_title=true" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=adimehtaa&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adimehtaa&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" width="38%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adimehtaa&hide_border=true" width="65%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adimehtaa&theme=tokyonight&hide_border=true" width="65%" />
 
 <br><br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=adimehtaa&theme=flat&no-frame=true&row=1&column=6" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=adimehtaa&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adimehtaa/adimehtaa/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adimehtaa/adimehtaa/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/adimehtaa/adimehtaa/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## Find Me Online
-
-| Platform       | Profile                                               |
-| :------------- | :---------------------------------------------------- |
-| Stack Overflow | [adimehtaa](https://stackoverflow.com/users/28128022) |
-| LeetCode       | [adimehtaa](https://www.leetcode.com/adimehtaa)       |
-| HackerEarth    | [adimehtaa](https://www.hackerearth.com/adimehtaa)    |
-
----
-
-<div align="center">
-
-**Java • Spring Boot • APIs • Databases • System Design**
 
 <br>
+
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/link.svg" width="22" height="22" style="vertical-align:middle" /> Find Me Online
+
+<div align="center">
+
+<a href="https://stackoverflow.com/users/28128022"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+<a href="https://www.leetcode.com/adimehtaa"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.hackerearth.com/adimehtaa"><img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
