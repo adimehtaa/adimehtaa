@@ -7,11 +7,11 @@
 `Building scalable backend systems, one service at a time.`
 
 <p>
-<a href="https://adimehta.com">Portfolio</a> •
-<a href="https://adimehta.com/blogs">Blog</a> •
-<a href="https://adimehta.com/projects">Project</a> •
+<a href="hhttps://adimehtaa.github.io/">Portfolio</a> •
+<a href="https://adimehtaa.github.io/posts">Blog</a> •
+<a href="https://adimehtaa.github.io/projects">Project</a> •
 <a href="https://linkedin.com/in/adimehtaa">LinkedIn</a> •
-<a href="https://twitter.com/adimehtaa">Twitter</a> •
+<a href="https://x.com/adimehtaa">Twitter</a> •
 <a href="mailto:adityamehta242@gmail.com">Email</a>
 </p>
 
